@@ -14,6 +14,7 @@
 		64500B511E5803A800B2B9C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64500B4F1E5803A800B2B9C9 /* LaunchScreen.storyboard */; };
 		64500B5C1E5803A900B2B9C9 /* Tip_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64500B5B1E5803A900B2B9C9 /* Tip_CalculatorTests.swift */; };
 		64500B671E5803A900B2B9C9 /* Tip_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64500B661E5803A900B2B9C9 /* Tip_CalculatorUITests.swift */; };
+		64500B751E59335D00B2B9C9 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64500B741E59335D00B2B9C9 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		64500B621E5803A900B2B9C9 /* Tip CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		64500B661E5803A900B2B9C9 /* Tip_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorUITests.swift; sourceTree = "<group>"; };
 		64500B681E5803A900B2B9C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64500B741E59335D00B2B9C9 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				64500B461E5803A800B2B9C9 /* AppDelegate.swift */,
 				64500B481E5803A800B2B9C9 /* ViewController.swift */,
 				64500B4A1E5803A800B2B9C9 /* Main.storyboard */,
+				64500B741E59335D00B2B9C9 /* SettingsViewController.swift */,
 				64500B4D1E5803A800B2B9C9 /* Assets.xcassets */,
 				64500B4F1E5803A800B2B9C9 /* LaunchScreen.storyboard */,
 				64500B521E5803A800B2B9C9 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				64500B491E5803A800B2B9C9 /* ViewController.swift in Sources */,
 				64500B471E5803A800B2B9C9 /* AppDelegate.swift in Sources */,
+				64500B751E59335D00B2B9C9 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
